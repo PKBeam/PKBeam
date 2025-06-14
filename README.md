@@ -1,16 +1,23 @@
-## Hi there 👋
+Sometimes I think: *wouldn't it be nice if there was a program that could do this?*
 
-<!--
-**PKBeam/PKBeam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+If I ever decide to write that program myself, this is where it goes.
 
-Here are some ideas to get you started:
+<hr/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ **Things I think are cool**
+- Low-level software (kernels, drivers)
+- Hardware (FPGAs, silicon)
+- Mathematics (the more abstract kind)
+
+<hr/>
+
+🖥️ **My Programming Language Tier List**
+|||
+|-|-|
+| **S** | Swift, C |
+| **A** | C++, Python*, C#, Mathematica |
+| **B** | Assembly, HLSL, GLSL, VHDL, TypeScript, Solidity |
+| **C** | JavaScript, SQL, PowerShell, Bash, Visual Basic |
+| **D** | Java, R, PHP, MATLAB |
+
+\* Only for scripting purposes

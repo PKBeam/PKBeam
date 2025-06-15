@@ -15,9 +15,7 @@ If I ever decide to write that program myself, this is where it goes.
 |||
 |-|-|
 | **S** | Swift, C |
-| **A** | C++, Python*, C#, Mathematica |
+| **A** | C++, Python, C#, Mathematica |
 | **B** | Assembly, HLSL, GLSL, VHDL, TypeScript, Solidity |
 | **C** | JavaScript, SQL, PowerShell, Bash, Visual Basic |
-| **D** | Java, R, PHP, MATLAB |
-
-\* Only for scripting purposes
+| **D** | Java, R, MATLAB, PHP |
